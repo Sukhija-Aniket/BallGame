@@ -21,4 +21,4 @@ If you wish to contribute to this project you can fork the repository and contri
    
 ## Image
 
-!['Screenshot from 2021-08-16 07-56-09.png'] ("Screenshot from 2021-08-16 07-56-09.png")
+!['Screenshot from 2021-08-16 07-56-09.png'] ("https://github.com/Sukhija-Aniket/BallGame/blob/6f0299f902487415b7ecf3a7e9091a9cb64979cc/Screenshot%20from%202021-08-16%2007-56-09.png")
