@@ -19,6 +19,6 @@ If you wish to contribute to this project you can fork the repository and contri
    1) Identify a bug or an improvement and raise an issue.
    2) Work on existing issues and make a PR.
    
-#Image
+## Image
 
-['Gameplay']("")
+['Gameplay']("https://github.com/Sukhija-Aniket/BallGame/blob/main/Screenshot%20from%202021-08-16%2007-56-09.png")
